@@ -1,8 +1,12 @@
-#[Exercise Link:](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Events#dom_manipulation_considered_useful)
-#Instructions: 
+###[Exercise Link:](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Events#dom_manipulation_considered_useful)<br>
+
+###Instructions: <br>
+
 In our first events-related task, you need to create a simple event handler that causes the text inside the button (btn) to change when it is clicked on, and change back when it is clicked again.
-The HTML should not be changed; just the JavaScript.
-#My Solution:
+The HTML should not be changed; just the JavaScript.<br>
+
+###My Solution:<br>
+
 ```
 // Add your code here
       const changeText = () => {
